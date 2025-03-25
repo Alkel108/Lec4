@@ -1,0 +1,49 @@
+/*
+filename: lab04
+
+author: alex
+
+created: 25/03/25
+
+last modified: 
+
+description: refers to lab04.html
+*/
+
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+* { font-family: calibri, sans-serif;
+    color: #2F4F4F; }     
+
+h2{color: rgb(0,128,128); font-weight: bold; font-size: 150%;}
+
+aside, footer{ font-style: italic;}
+h1, h2, h3{font-family: Arial, sans-serif;}
+
+table, thead, td{border: 1px solid black;     
+}
+
+#images {
+    text-align : center;  /* careful: center has US spelling */
+    }
+#Heading3{
+    color: red;
+}
+.special{color: darkorange; font-weight: bold;}
+
+.rightalign{text-align: right;}
+
+ol ul{
+    list-style: square;
+
+}
+
+aside:hover{opacity: 0%;}
+
+nav a:hover{
+    background-color: lightblue;
+    border: 2px solid darkblue;
+}
